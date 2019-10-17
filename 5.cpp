@@ -1,3 +1,5 @@
+//vector의 reverse
+
 #include <iostream>
 #include <vector>
 using namespace std;

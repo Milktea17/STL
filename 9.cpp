@@ -1,3 +1,5 @@
+//vector의 clear, empty
+
 #include <iostream>
 #include <vector>
 using namespace std;

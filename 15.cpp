@@ -1,3 +1,5 @@
+//[] at()차이는 at()은 범위점검을 한다
+
 #include <iostream>
 #include <vector>
 using namespace std;

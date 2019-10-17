@@ -1,3 +1,5 @@
+//swap을 이용한 메모리제거
+
 #include <iostream>
 #include <vector>
 using namespace std;

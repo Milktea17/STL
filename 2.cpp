@@ -1,3 +1,6 @@
+//vector size_type지정
+
+
 #include <iostream>
 #include <vector>
 using namespace std;

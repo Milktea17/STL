@@ -1,3 +1,5 @@
+//vector의 begin,end
+
 #include <iostream>
 #include <vector>
 using namespace std;

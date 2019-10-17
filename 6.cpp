@@ -1,3 +1,5 @@
+//vector의 생성자
+
 #include <iostream>
 #include <vector>
 using namespace std;

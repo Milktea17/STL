@@ -1,3 +1,5 @@
+//일반 반복자와 상수 반복자의 차이
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -20,6 +22,9 @@ int main(){
 
 	cout << *++iter << endl;
 	cout << *++citer << endl;
+
+	*iter = 100;
+	//*citer = 100; //상수반복자는 가리키는 원소 변경 불가능
 	
 	return 0;
 }

@@ -1,3 +1,5 @@
+//vector size,capacity,max_size
+
 #include <iostream>
 #include <vector>
 using namespace std;
